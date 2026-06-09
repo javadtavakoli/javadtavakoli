@@ -58,3 +58,5 @@ I'm a software engineer with **10+ years** building production web systems end-t
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=javadtavakoli&show_icons=true&hide_border=true&title_color=1F4E79&icon_color=1F4E79" alt="stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javadtavakoli&layout=compact&hide_border=true&title_color=1F4E79&langs_count=8" alt="top langs" />
 </p>
+
+<!-- profile -->
